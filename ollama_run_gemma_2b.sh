@@ -1,0 +1,1 @@
+ollama run gemma:2b
