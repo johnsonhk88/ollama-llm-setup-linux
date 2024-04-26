@@ -1,0 +1,1 @@
+ollama create mlguru -f modelfile
