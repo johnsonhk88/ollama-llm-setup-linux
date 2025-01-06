@@ -1,0 +1,1 @@
+docker exec -it open-webui ollama run llama3.2:1b
